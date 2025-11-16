@@ -85,49 +85,6 @@ Donut charts illustrating attrition rate among males and females across age grou
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
-
-## 📥 How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/HR-Analytics-Dashboard.git
-   ```
-2. Open the `.twb` or `.twbx` file in **Tableau Desktop**.
-3. Load the dataset if required.
-4. Explore and interact with the visualization.
-
----
-
-## 📌 Future Enhancements
-
-* Adding predictive attrition modeling
-* Including salary, performance & tenure analytics
-* Integrating live data pipelines
-* Creating a Power BI version
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to open issues or submit pull requests to improve the dashboard or add new features.
-
----
-
-## 📬 Contact
-
-If you have any questions or suggestions, connect with me on:
-**LinkedIn:** *Your Profile Link*
-**Email:** *[your.email@example.com](mailto:your.email@example.com)*
-
----
-
-If you'd like, I can also:
-✅ Create a **short version**
-✅ Add **badges (stars, license, tools)**
-✅ Format it with **markdown styling**
-Just tell me!
